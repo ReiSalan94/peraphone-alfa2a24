@@ -17,3 +17,19 @@ h2{
     font-weight: bold;
 }
 /*PROFESSOR QUERIDO, SE ENCONTRAR ESTE CÓDIGO EM MEU SITE, PODE DESCONTAR, 0,2 PONTOS*/
+.categorias div{
+    text-align: center;
+}
+footer{
+    background-color: #5a5a5a;
+    margin-top: 50px;
+    color: #fff;
+}
+footer ul li{
+    list-style: none;
+    
+}
+footer ul li a{
+    color: #fff;
+    text-decoration: none;
+}
